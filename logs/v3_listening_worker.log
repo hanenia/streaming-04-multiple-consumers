@@ -6,3 +6,15 @@
 2024-05-24 20:18:15,391.v3_listening_worker.INFO Working dir: C:\Users\berek\streaming-04-multiple-consumers
 2024-05-24 20:18:15,391.v3_listening_worker.INFO ==================================================
 2024-05-24 20:18:15,434.v3_listening_worker.INFO  [*] Ready for work. To exit press CTRL+C
+2024-05-24 20:18:29,258.v3_listening_worker.INFO  [x] Received First task.... at 2024-05-24 20:18:29.258563
+2024-05-24 20:18:33,260.v3_listening_worker.INFO  [x] Done.
+2024-05-24 20:18:33,293.v3_listening_worker.INFO  [x] Received Second task.... at 2024-05-24 20:18:33.293335
+2024-05-24 20:18:37,295.v3_listening_worker.INFO  [x] Done.
+2024-05-24 20:18:37,299.v3_listening_worker.INFO  [x] Received Third task.... at 2024-05-24 20:18:37.299056
+2024-05-24 20:18:41,300.v3_listening_worker.INFO  [x] Done.
+2024-05-24 20:18:41,304.v3_listening_worker.INFO  [x] Received Forth task... at 2024-05-24 20:18:41.304505
+2024-05-24 20:18:44,306.v3_listening_worker.INFO  [x] Done.
+2024-05-24 20:18:44,324.v3_listening_worker.INFO  [x] Received Fifth task... at 2024-05-24 20:18:44.324139
+2024-05-24 20:18:47,325.v3_listening_worker.INFO  [x] Done.
+2024-05-24 20:18:47,328.v3_listening_worker.INFO  [x] Received Sixth task... at 2024-05-24 20:18:47.328273
+2024-05-24 20:18:50,329.v3_listening_worker.INFO  [x] Done.
